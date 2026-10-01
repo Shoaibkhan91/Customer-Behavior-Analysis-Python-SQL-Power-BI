@@ -1,4 +1,4 @@
-# 🛍️ Customer Shopping Behavior Analysis
+#  Customer Shopping Behavior Analysis
 
 An end-to-end **Data Analytics project** focused on understanding customer purchasing behavior, sales performance, subscription patterns, and business opportunities using **Python, SQL Server, and Power BI**.
 
@@ -8,7 +8,7 @@ The project follows a complete analytics workflow:
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Understanding customer behavior is essential for improving sales, customer retention, and subscription growth.
 
@@ -23,21 +23,21 @@ This project analyzes customer shopping data to answer important business questi
 
 The analysis was performed in three major stages:
 
-### 1️⃣ Python — Data Cleaning & Feature Engineering
+### 1️ Python — Data Cleaning & Feature Engineering
 
 Used **Pandas and NumPy** to clean the raw dataset, handle missing values, standardize columns, and create useful analytical features.
 
-### 2️⃣ SQL Server — Business Analysis
+### 2️ SQL Server — Business Analysis
 
 Loaded the cleaned data into **SQL Server** and answered 10 business questions using SQL techniques such as subqueries, CASE statements, CTEs, aggregations, and window functions.
 
-### 3️⃣ Power BI — Dashboard & Visualization
+### 3️ Power BI — Dashboard & Visualization
 
 Built an interactive dashboard to present KPIs, customer behavior, category performance, and subscription insights.
 
 ---
 
-## 📊 Power BI Dashboard
+##  Power BI Dashboard
 
 The interactive Power BI dashboard provides a high-level view of customer shopping behavior.
 
@@ -63,7 +63,7 @@ The interactive Power BI dashboard provides a high-level view of customer shoppi
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 | Tool / Technology    | Purpose                    |
 | -------------------- | -------------------------- |
@@ -81,7 +81,7 @@ The interactive Power BI dashboard provides a high-level view of customer shoppi
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```text
 Customer-Behavior-Analysis/
@@ -99,7 +99,7 @@ Customer-Behavior-Analysis/
 
 ---
 
-# 🧹 Step 1: Data Cleaning & Feature Engineering
+#  Step 1: Data Cleaning & Feature Engineering
 
 The raw customer shopping dataset was cleaned and prepared using **Python and Pandas**.
 
@@ -131,7 +131,7 @@ The cleaned dataset was then loaded into SQL Server using **SQLAlchemy and PyODB
 
 ---
 
-# 🗄️ Step 2: SQL Server Analysis
+#  Step 2: SQL Server Analysis
 
 After cleaning the data, I loaded it into **SQL Server** and answered 10 business questions using SQL.
 
@@ -150,7 +150,7 @@ After cleaning the data, I loaded it into **SQL Server** and answered 10 busines
 
 ---
 
-## 📌 Sample SQL Results
+##  Sample SQL Results
 
 ### Q7 — Customer Segmentation
 
@@ -172,7 +172,7 @@ After cleaning the data, I loaded it into **SQL Server** and answered 10 busines
 
 ---
 
-# 📊 Step 3: Power BI Dashboard
+#  Step 3: Power BI Dashboard
 
 The cleaned and analyzed data was used to create an interactive **Power BI dashboard**.
 
@@ -200,7 +200,7 @@ The cleaned and analyzed data was used to create an interactive **Power BI dashb
 
 ---
 
-# 💡 Key Business Insights
+#  Key Business Insights
 
 ### 1. Subscription Opportunity
 
@@ -228,7 +228,7 @@ Discount usage is relatively evenly distributed across products. The top five pr
 
 ---
 
-# ✅ Business Recommendations
+#  Business Recommendations
 
 Based on the analysis, the following opportunities could be explored:
 
@@ -258,7 +258,7 @@ Encourage customers to submit ratings after purchases to improve both customer f
 
 ---
 
-# 🚀 Project Workflow
+#  Project Workflow
 
 ```text
 Raw Customer Data
@@ -284,7 +284,7 @@ Recommendations
 
 ---
 
-# ▶️ How to Run the Project
+#  How to Run the Project
 
 ### 1. Clone the Repository
 
